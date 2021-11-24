@@ -64,6 +64,10 @@ struct pila{
 
 
 void crearPila (struct pila **l);
+
+void actualizacion (void);
+
+
 void actualizar()//Bit 2 encendido: Se trata de una actualización positiva, hay que sumarle al registro datos campo cantidad el contenido de actual cantidad, 
                  //si existe un error, se guardará el registro en una Pila.
 void alta()		//Bit 6 encendido: Se trata de un alta: Se deberá dar de alta el registro en el archivo “datos.dat” con los datos del
@@ -144,3 +148,17 @@ int main()
 	fclose(fe);
 }
 
+
+void crearPila (struct pila **l);
+{
+}	
+	
+void actualizacion (void);
+{
+	
+}	
+	
+	
+	
+	
+	

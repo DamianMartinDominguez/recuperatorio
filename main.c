@@ -31,7 +31,7 @@ Se pide realizar la actualización en el main() y 2 funciones que realice cada u
 utilizar variables Globales.
 Enviar a Gustavo Viard: gviard_electronica@yahoo.com.ar
 
-
+modificado
 
 */
 
